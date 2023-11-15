@@ -5,7 +5,8 @@ The goal of building this project is to practice using tailwind css.
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [The Design](#the-design)
+  - [Screenshot](#screenshot)
   - [Links live site](#links-live-site)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -18,7 +19,9 @@ The goal of building this project is to practice using tailwind css.
 
 - Optimal layout is displayed depending on their device's screen size
 
+### Screenshot
 
+![Design preview for the Results summary component coding challenge](./img/screen.png)
 
 ### Links Live Site
 
